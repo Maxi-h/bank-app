@@ -77,6 +77,6 @@ If everything is set up _correctly_, you should see your new app running in your
 Start testing with jest, use follow command
 
 ```bash
-# using npm
+# using yarn
 yarn test
 ```
